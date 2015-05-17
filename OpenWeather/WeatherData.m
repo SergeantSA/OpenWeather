@@ -1,13 +1,13 @@
 //
-//  FirstViewController.h
+//  WeatherData.m
 //  OpenWeather
 //
 //  Created by SergeantSA on 5/16/15.
 //  Copyright (c) 2015 SergeantWare. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "WeatherData.h"
 
-@interface FirstViewController : UIViewController
+@implementation WeatherData
 
 @end
